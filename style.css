@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;color:#BA55D3 ;
+}
+header{
+    background-color: #B0E0E6;
+}
+main h1 {
+    font-size: 100px;
+}
+footer {
+    background-color: #FFB6C1;
+}
+nav a {
+    font-size: 20px;
+    background-color:#D2691E;
+    text-decoration: none;
+    border: 3px solid navy;
+    border-radius: 10px;
+}
+.u {
+    border:3px solid #B0E0E6;
+    border-radius: 10px;
+
+}
